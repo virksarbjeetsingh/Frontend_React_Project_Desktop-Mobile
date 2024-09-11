@@ -1,0 +1,2580 @@
+.Sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0px 272px;
+  gap: 39px;
+
+  position: absolute;
+  width: 242px;
+  height: 900px;
+  left: 0px;
+  top: 0px;
+  background-color: #fafbfb;
+}
+
+.Frame88 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+
+  width: 169px;
+  height: 62px;
+}
+img {
+  width: 142.99px;
+  height: 36.8px;
+}
+.Frame87 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 242px;
+  height: 318px;
+}
+.Frame86 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 242px;
+  height: 150px;
+}
+.Frame85 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 0px 10px 30px;
+  gap: 10px;
+  width: 242px;
+  height: 38px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  font-feature-settings: "salt" on, "liga" off;
+  color: #686868;
+  opacity: 0.5;
+}
+.dashboard-icon {
+  opacity: 1;
+}
+
+.other-icons {
+  opacity: 0.5;
+}
+
+.Frame1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px 0px 16px 30px;
+  gap: 24px;
+
+  width: 242px;
+  height: 56px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  font-feature-settings: "salt" on, "liga" off;
+  cursor: pointer;
+  color: #ff5151;
+}
+.Frame39 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px 0px 16px 30px;
+  gap: 24px;
+
+  width: 242px;
+  height: 56px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+  cursor: pointer;
+}
+.Frame3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px 0px 16px 30px;
+  gap: 24px;
+
+  width: 242px;
+  height: 56px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+  cursor: pointer;
+}
+.Frame38 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px 0px 16px 30px;
+  gap: 24px;
+
+  width: 242px;
+  height: 56px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-feature-settings: "salt" on, "liga" off;
+  color: #686868;
+  cursor: pointer;
+}
+.Frame4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px 0px 16px 30px;
+  gap: 24px;
+  width: 242px;
+  height: 56px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-feature-settings: "salt" on, "liga" off;
+  color: #686868;
+  cursor: pointer;
+}
+.Frame84 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 0px 10px 30px;
+  gap: 10px;
+  width: 242px;
+  height: 38px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  font-feature-settings: "salt" on, "liga" off;
+  color: #686868;
+  opacity: 0.5;
+}
+.Frame86 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 242px;
+  height: 150px;
+}
+
+.Frame5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px 0px 16px 30px;
+  gap: 24px;
+
+  width: 242px;
+  height: 56px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+  cursor: pointer;
+}
+
+.Frame6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px 0px 16px 30px;
+  gap: 24px;
+
+  width: 242px;
+  height: 56px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+  cursor: pointer;
+}
+.sidebar-menu {
+  display: none;
+}
+.Navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0px 0px 50px;
+
+  position: absolute;
+  width: 1198px;
+  height: 91px;
+  left: 243px;
+  top: 0px;
+}
+.Frame97 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+
+  width: 1148px;
+  height: 90px;
+}
+.Frame76 {
+  position: absolute;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 16px;
+  gap: 266px;
+
+  margin: 0 auto;
+  width: 343px;
+  height: 44px;
+  background: #fafafa;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+}
+.Frame9 {
+  margin: 0 auto;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border: 0px;
+  background-color: #fafafa;
+  left: 350px;
+  opacity: 0.5;
+}
+.Frame13 {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+
+  justify-content: right;
+  align-items: center;
+  padding: 24px 50px 24px 0px;
+  gap: 30px;
+
+  margin: 0 auto;
+  width: 364px;
+  height: 90px;
+}
+
+.Frame12 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 12px;
+
+  width: 193px;
+  height: 42px;
+}
+.notification {
+  width: 24px;
+  height: 24px;
+  opacity: 0.4;
+  cursor: pointer;
+}
+.Ellipse {
+  position: absolute;
+  left: 70.26%;
+  right: 8.33%;
+  top: 14.79%;
+  bottom: 50%;
+
+  color: #ff0000;
+  right: auto;
+
+  font-size: 35px;
+}
+.message {
+  width: 24px;
+  height: 24px;
+  opacity: 0.4;
+  cursor: pointer;
+}
+.rounded-circle {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  left: 0px;
+  top: 0px;
+
+  background: #c4c4c4;
+}
+.Frame11 {
+  position: absolute;
+  left: 54px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  width: 139px;
+  height: 24px;
+}
+.profile-name {
+  position: absolute;
+  width: 111px;
+  height: 24px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 24px;
+
+  font-feature-settings: "salt" on, "liga" off;
+  cursor: pointer;
+}
+.Frame10 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+
+  left: 121px;
+  top: 1px;
+}
+.custom-hr {
+  position: relative;
+  left: 293px;
+  width: 100%;
+  border: 1px solid #ccc;
+  margin-top: 92px;
+  width: 1148px;
+  height: 1px;
+  align-self: stretch;
+
+  background: #f1f1f1;
+}
+.title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 10px 10px 0px;
+  gap: 10px;
+
+  position: absolute;
+  width: 640px;
+  height: 62px;
+  left: 293px;
+  top: 102px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 42px;
+
+  font-feature-settings: "salt" on, "liga" off;
+}
+.Available-position {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 12px 12px 12px 20px;
+  gap: 16px;
+
+  position: absolute;
+  width: 204px;
+  height: 136px;
+  left: 293px;
+  top: 166px;
+
+  background: #ffefe7;
+  border-radius: 10px;
+}
+.Available-position-text {
+  width: 172px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+
+  font-feature-settings: "salt" on, "liga" off;
+}
+.Available-count {
+  width: 172px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 28px;
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "salt" on, "liga" off;
+}
+.paragraph1 {
+  width: 172px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Main Color */
+  color: #ff5151;
+}
+.Job-Open {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 12px 12px 12px 20px;
+  gap: 16px;
+
+  position: absolute;
+  width: 204px;
+  height: 136px;
+  left: 511px;
+  top: 166px;
+
+  background: #e8f0fb;
+  border-radius: 10px;
+}
+.Job-Open-text {
+  width: 172px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+
+  font-feature-settings: "salt" on, "liga" off;
+}
+.Job-count {
+  width: 172px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  font-feature-settings: "salt" on, "liga" off;
+}
+.paragraph2 {
+  width: 172px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #3786f1;
+}
+.New-Employees {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 12px 12px 12px 20px;
+  gap: 16px;
+
+  position: absolute;
+  width: 204px;
+  height: 136px;
+  left: 729px;
+  top: 166px;
+
+  background: #fdebf9;
+  border-radius: 10px;
+}
+.New-Employees-text {
+  width: 172px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  font-feature-settings: "salt" on, "liga" off;
+}
+.Employees-count {
+  width: 172px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  font-feature-settings: "salt" on, "liga" off;
+}
+.paragraph3 {
+  width: 172px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #ee61cf;
+}
+.Total-Employees {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+  gap: 40px;
+
+  position: absolute;
+  width: 312px;
+  height: 190px;
+  left: 293px;
+  top: 322px;
+
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+}
+.Frame50 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 32px;
+
+  width: 117px;
+  height: 150px;
+}
+.Frame49 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 22px;
+
+  width: 147px;
+  height: 78px;
+}
+.total-employees-text {
+  width: 166px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  font-feature-settings: "salt" on, "liga" off;
+}
+.total-employees-count {
+  width: 147px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 28px;
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "salt" on, "liga" off;
+}
+.Frame48 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  width: 147px;
+  height: 40px;
+}
+.E-Men-count {
+  width: 147px;
+  height: 18px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+}
+.E-Women-count {
+  width: 147px;
+  height: 18px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+}
+.Frame52 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0px;
+  gap: 20px;
+
+  width: 115px;
+  height: 121px;
+}
+.graph1 {
+  width: 115px;
+  height: 78px;
+}
+.Frame51 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 10px;
+  gap: 10px;
+
+  width: 107px;
+  height: 24px;
+
+  background: #ffefe7;
+  border-radius: 4px;
+}
+.Frame51-percent {
+  width: 87px;
+  height: 24px;
+  padding-top: 6px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #303030;
+}
+.Talent-Request {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+  gap: 40px;
+
+  position: absolute;
+  width: 312px;
+  height: 190px;
+  left: 621px;
+  top: 322px;
+
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+}
+.recently-activity {
+  position: absolute;
+  width: 427px;
+  height: 258px;
+  left: 963px;
+  top: 164px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    #161e54;
+  border-radius: 10px;
+  color: white;
+}
+.Frame81 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 6px;
+
+  position: absolute;
+  height: 92px;
+  left: 24px;
+  right: 63px;
+  top: 74px;
+}
+.activity-time {
+  width: 340px;
+  height: 12px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+
+  color: #ffffff;
+
+  opacity: 0.6;
+}
+.activity-details {
+  width: 340px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #ffffff;
+}
+.activity-description {
+  width: 340px;
+  height: 40px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #ffffff;
+
+  opacity: 0.8;
+}
+.Frame80 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  gap: 38px;
+
+  position: absolute;
+  width: 369px;
+  height: 38px;
+  left: 24px;
+  top: 194px;
+}
+.activity-count {
+  margin: 0 auto;
+  width: 195px;
+  height: 21px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+
+  color: #ffffff;
+}
+.see-all-activity {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 16px;
+  gap: 10px;
+
+  margin: 0 auto;
+  width: 139px;
+  height: 38px;
+
+  background: #ff5151;
+  border-radius: 4px;
+}
+.primary-button {
+  width: 107px;
+  height: 18px;
+  margin-top: 14px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+.Frame82 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 10px 10px 24px;
+  gap: 10px;
+
+  position: absolute;
+  width: 427px;
+  height: 48px;
+  left: 0px;
+  top: 0px;
+
+  background: #1b204a;
+  border-radius: 10px 10px 0px 0px;
+}
+.Frame82 h4 {
+  width: 393px;
+  height: 28px;
+  margin-top: 8px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #ffffff;
+}
+.Announcement {
+  position: absolute;
+  width: 640px;
+  height: 334px;
+  left: 293px;
+  top: 532px;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  overflow: hidden;
+  overflow-y: auto;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.Frame60 {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 95px;
+
+  position: absolute;
+  width: 600px;
+  height: 68px;
+  left: 20px;
+  top: 60px;
+
+  background: #fafafa;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 6px;
+}
+.Frame58 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 6px;
+
+  width: 405px;
+  height: 52px;
+}
+.Announcement-Heading {
+  width: 405px;
+  height: 24px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #303030;
+}
+.Announcement-paragraph {
+  width: 405px;
+  height: 14px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+}
+.Frame57 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+
+  width: 68px;
+  height: 24px;
+}
+.Heading-Pin {
+  width: 24px;
+  height: 24px;
+  opacity: 0.3;
+  cursor: pointer;
+}
+.Dots {
+  width: 24px;
+  height: 24px;
+  opacity: 0.3;
+  cursor: pointer;
+}
+.Frame61 {
+  box-sizing: border-box;
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 95px;
+
+  position: absolute;
+  width: 600px;
+  height: 68px;
+  left: 20px;
+  top: 136px;
+
+  background: #fafafa;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 6px;
+}
+.Frame62 {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 95px;
+
+  position: absolute;
+  width: 600px;
+  height: 92px;
+  left: 20px;
+  top: 212px;
+
+  background: #fafafa;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 6px;
+}
+.Frame74 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 26px;
+
+  position: absolute;
+  width: 598px;
+  height: 28px;
+  left: 22px;
+  top: 16px;
+}
+.Announcement-title {
+  margin: 0 auto;
+  width: 427px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+
+  font-feature-settings: "salt" on, "liga" off;
+}
+.Frame64 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 6px;
+  gap: 6px;
+
+  margin: 0 auto;
+  width: 145px;
+  height: 27px;
+
+  background: #ffffff;
+  border: 1px solid #efefef;
+  border-radius: 4px;
+}
+.Frame63 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 2px;
+  gap: 10px;
+
+  margin: 0 auto;
+  width: 109px;
+  height: 27px;
+}
+.Announcement-title-time {
+  width: 105px;
+  height: 22px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 28px;
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+}
+.Dashboard-Frame10 {
+  margin: 0 auto;
+  width: 18px;
+  height: 18px;
+  position: relative;
+}
+.DashboardFrame10toggle {
+  position: absolute;
+  top: -2px;
+  left: -4px;
+  width: 10px;
+  height: 4px;
+}
+.FirstHeading-Pin {
+  opacity: 0.7;
+  cursor: pointer;
+}
+.Frame72 {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+
+  position: absolute;
+  width: 640px;
+  height: 39px;
+  left: 0px;
+  top: 295px;
+
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 0px 0px 10px 10px;
+  z-index: 1;
+  position: sticky;
+  bottom: 0;
+}
+.Announcement-button {
+  width: 620px;
+  height: 20px;
+  margin: 10px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+
+  text-align: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #ff5151;
+  cursor: pointer;
+}
+.Upcoming-Schedule {
+  position: absolute;
+  width: 427px;
+  height: 424px;
+  left: 963px;
+  top: 442px;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+
+  overflow: hidden;
+  overflow-y: auto;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.Priority {
+  position: absolute;
+  width: 41px;
+  height: 23px;
+  left: 19px;
+  top: 65px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 28px;
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+}
+.Others {
+  position: absolute;
+  width: 41px;
+  height: 23px;
+  left: 19px;
+  top: 169px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 28px;
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+}
+.Frame75 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  gap: 41px;
+
+  position: absolute;
+  width: 386px;
+  height: 28px;
+  left: 21px;
+  top: 21px;
+}
+.Upcoming-title {
+  margin: 0 auto;
+  width: 200px;
+  height: 28px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+
+  font-feature-settings: "salt" on, "liga" off;
+}
+.Frame65 {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 6px;
+  gap: 6px;
+
+  margin: 0 auto;
+  width: 145px;
+  height: 27px;
+
+  background: #ffffff;
+  border: 1px solid #efefef;
+  border-radius: 4px;
+}
+.Frame68 {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 16px;
+  gap: 29px;
+
+  position: absolute;
+  width: 387px;
+  height: 64px;
+  left: 20px;
+  top: 96px;
+
+  background: #fafafa;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 6px;
+}
+.Frame66 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 6px;
+
+  width: 258px;
+  height: 54px;
+}
+.Upcoming-Heading {
+  width: 283px;
+  height: 24px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #303030;
+}
+.Upcoming-paragraph {
+  width: 258px;
+  height: 14px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #686868;
+}
+.Frame69 {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 16px;
+  gap: 29px;
+
+  position: absolute;
+  width: 387px;
+  height: 64px;
+  left: 20px;
+  top: 200px;
+
+  background: #fafafa;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 6px;
+}
+.Frame70 {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 16px;
+  gap: 29px;
+
+  position: absolute;
+  width: 387px;
+  height: 88px;
+  left: 20px;
+  top: 272px;
+
+  background: #fafafa;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 6px;
+}
+.Frame71 {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 16px;
+  gap: 29px;
+
+  position: absolute;
+  width: 387px;
+  height: 88px;
+  left: 20px;
+  top: 368px;
+
+  background: #fafafa;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 6px;
+}
+.Frame73 {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+
+  position: absolute;
+  width: 427px;
+  height: 39px;
+  left: 0px;
+  top: 385px;
+
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 0px 0px 10px 10px;
+  z-index: 2;
+  position: sticky;
+  bottom: 0;
+}
+.Upcoming-button {
+  margin: 10px;
+  width: 407px;
+  height: 20px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #ff5151;
+  cursor: pointer;
+}
+
+@media (max-width: 390px) {
+  .content {
+    width: 390px;
+    height: 2065px;
+
+    background: #ffffff;
+  }
+  .Sidebar {
+    display: none;
+  }
+  .sidebar-menu {
+    display: flex;
+    opacity: 0.4;
+    font-size: larger;
+    margin-top: 4px;
+    cursor: pointer;
+  }
+  .Sidebar {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    width: 200px;
+
+    background-color: #fafbfb;
+    top: 0;
+    left: 0;
+    transition: all 6.3s ease;
+    overflow: hidden;
+    overflow-y: auto;
+    position: sticky;
+    bottom: 0;
+    margin-top: -16px;
+  }
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+  .show-sidebar {
+    display: flex;
+  }
+
+  .Navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 390px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+  }
+  .Frame97 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 9px 20px 8px;
+    gap: 61px;
+
+    width: 390px;
+    height: 59px;
+
+    background: #ffffff;
+  }
+  .Frame76 {
+    display: none;
+    height: 30px;
+    width: 150px;
+    margin-left: 38px;
+  }
+
+  .Frame9.hidden {
+    display: none;
+  }
+
+  .Frame76.visible {
+    display: block;
+  }
+
+  .Frame9 {
+    margin: 0 auto;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    font-size: 14px;
+
+    left: 57px;
+    top: 19px;
+    background-color: transparent;
+    opacity: 0.4;
+  }
+  .Frame13 {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    margin: 0 auto;
+    width: 146px;
+    height: 42px;
+  }
+  .notification {
+    width: 24px;
+    height: 24px;
+  }
+  .message {
+    width: 24px;
+    height: 24px;
+  }
+  .Ellipse {
+    position: absolute;
+    left: 56%;
+    right: 8.33%;
+    top: 0%;
+    bottom: 50%;
+  }
+  .Frame12 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 6px;
+
+    width: 66px;
+    height: 42px;
+  }
+  .rounded-circle {
+    width: 36px;
+    height: 36px;
+  }
+  .profile-name {
+    display: none;
+  }
+  .Frame11 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 4px;
+
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: -70px;
+  }
+  .custom-hr {
+    position: relative;
+    left: 0px;
+
+    width: 390px;
+    border: 1px solid #ccc;
+    margin-top: 59px;
+
+    height: 1px;
+    align-self: stretch;
+
+    background: #f1f1f1;
+  }
+  .title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 10px 10px 0px;
+    gap: 10px;
+
+    position: absolute;
+    width: 350px;
+    height: 62px;
+    left: 20px;
+    top: 70px;
+  }
+  .Available-position {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 12px 12px 12px 20px;
+    gap: 16px;
+
+    position: absolute;
+    width: 350px;
+    height: 140px;
+    left: 20px;
+    top: 132px;
+
+    background: #ffefe7;
+    border-radius: 10px;
+  }
+  .Available-position-text {
+    width: 318px;
+    height: 24px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .Available-count {
+    width: 318px;
+    height: 28px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 28px;
+
+    display: flex;
+    align-items: center;
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .paragraph1 {
+    width: 318px;
+    height: 24px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #ff5151;
+  }
+  .Job-Open {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 12px 12px 12px 20px;
+    gap: 16px;
+
+    position: absolute;
+    width: 350px;
+    height: 140px;
+    left: 20px;
+    top: 288px;
+
+    background: #e8f0fb;
+    border-radius: 10px;
+  }
+  .Job-Open-text {
+    width: 318px;
+    height: 24px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .Job-count {
+    width: 318px;
+    height: 28px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 28px;
+
+    display: flex;
+    align-items: center;
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .paragraph2 {
+    width: 318px;
+    height: 24px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #3786f1;
+  }
+  .New-Employees {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 12px 12px 12px 20px;
+    gap: 16px;
+
+    position: absolute;
+    width: 350px;
+    height: 140px;
+    left: 20px;
+    top: 444px;
+
+    background: #fdebf9;
+    border-radius: 10px;
+  }
+  .New-Employees-text {
+    width: 318px;
+    height: 24px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .Employees-count {
+    width: 318px;
+    height: 28px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 28px;
+
+    display: flex;
+    align-items: center;
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .paragraph3 {
+    width: 318px;
+    height: 24px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #ee61cf;
+  }
+  .Total-Employees {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+    gap: 40px;
+
+    position: absolute;
+    width: 350px;
+    height: 190px;
+    left: 20px;
+    top: 600px;
+
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+  }
+  .Frame50 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+
+    width: 155px;
+    height: 146px;
+  }
+  .Frame49 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 22px;
+
+    width: 147px;
+    height: 74px;
+  }
+  .total-employees-text {
+    width: 166px;
+    height: 24px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .total-employees-count {
+    width: 147px;
+    height: 28px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 28px;
+
+    display: flex;
+    align-items: center;
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .Frame48 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 4px;
+
+    width: 147px;
+    height: 40px;
+  }
+  .E-Men-count {
+    width: 147px;
+    height: 18px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #686868;
+  }
+  .E-Women-count {
+    width: 147px;
+    height: 18px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #686868;
+  }
+  .Frame52 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 0px;
+    gap: 20px;
+
+    width: 115px;
+    height: 121px;
+  }
+  .graph1 {
+    width: 115px;
+    height: 78px;
+  }
+  .Frame51 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 10px;
+
+    width: 107px;
+    height: 24px;
+
+    background: #ffefe7;
+    border-radius: 4px;
+  }
+  .Frame51-percent {
+    width: 87px;
+    height: 24px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #303030;
+  }
+  .Talent-Request {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+    gap: 40px;
+
+    position: absolute;
+    width: 350px;
+    height: 190px;
+    left: 20px;
+    top: 806px;
+
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+  }
+  .Announcement {
+    position: absolute;
+    width: 350px;
+    height: 339px;
+    left: 20px;
+    top: 1012px;
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+  }
+  .Frame74 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 26px;
+
+    position: absolute;
+    width: 308px;
+    height: 27px;
+    left: 22px;
+    top: 17px;
+  }
+  .Announcement-title {
+    margin: 0 auto;
+    width: 427px;
+    height: 24px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .Frame64 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 6px;
+    gap: 6px;
+
+    margin: 0 auto;
+    width: 125px;
+    height: 27px;
+
+    background: #ffffff;
+    border: 1px solid #efefef;
+    border-radius: 4px;
+  }
+  .Frame63 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 2px;
+    gap: 10px;
+
+    margin: 0 auto;
+    width: 109px;
+    height: 27px;
+  }
+  .Announcement-title-time {
+    width: 105px;
+    height: 22px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 28px;
+
+    display: flex;
+    align-items: center;
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #686868;
+  }
+  .Dashboard-Frame10 {
+    margin: 0 auto;
+    width: 18px;
+    height: 18px;
+  }
+  .DashboardFrame10toggle {
+    position: absolute;
+    width: 10px;
+    height: 4px;
+    left: -21px;
+    top: -2px;
+    right: 10px;
+  }
+  .Frame60 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 8px 0px 6px;
+    gap: 5px;
+
+    position: absolute;
+    width: 310px;
+    height: 64px;
+    left: 20px;
+    top: 60px;
+
+    background: #fafafa;
+    border: 0.5px solid #e0e0e0;
+    border-radius: 6px;
+  }
+  .Frame58 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px 10px 0px 14px;
+    gap: 4px;
+
+    width: 790px;
+    height: 21px;
+  }
+  .Announcement-Heading {
+    width: 277px;
+    height: 21px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #303030;
+  }
+  .Announcement-paragraph {
+    position: relative;
+    left: -281px;
+    top: 40px;
+  }
+  .Frame57 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    position: relative;
+    padding: 0px;
+    gap: 10px;
+    position: ;
+    left: 120px;
+    top: 6px;
+    margin: 0 auto;
+    width: 58px;
+    height: 24px;
+  }
+  .Frame61 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 8px 0px 6px;
+    gap: 5px;
+
+    position: absolute;
+    width: 310px;
+    height: 64px;
+    left: 20px;
+    top: 132px;
+
+    background: #fafafa;
+    border: 0.5px solid #e0e0e0;
+    border-radius: 6px;
+  }
+  .Frame62 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 8px 0px 6px;
+    gap: 5px;
+
+    position: absolute;
+    width: 310px;
+    height: 85px;
+    left: 20px;
+    top: 206px;
+
+    background: #fafafa;
+    border: 0.5px solid #e0e0e0;
+    border-radius: 6px;
+  }
+  .Frame72 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    position: absolute;
+    width: 350px;
+    height: 39px;
+    left: 0px;
+    top: 300px;
+
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 0px 0px 10px 10px;
+    z-index: 2;
+    position: sticky;
+    bottom: 0;
+  }
+  .Announcement-button {
+    width: 330px;
+    height: 20px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+
+    text-align: center;
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #ff5151;
+  }
+  .recently-activity {
+    position: absolute;
+    width: 350px;
+    height: 306px;
+    left: 20px;
+    top: 1371px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+      #161e54;
+    border-radius: 10px;
+  }
+  .Frame81 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 7px;
+
+    position: absolute;
+    height: 90px;
+    left: 20px;
+    right: 42px;
+    top: 80px;
+  }
+  .activity-time {
+    width: 288px;
+    height: 12px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #ffffff;
+
+    opacity: 0.6;
+  }
+  .activity-details {
+    width: 288px;
+    height: 24px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #ffffff;
+    margin-bottom: -2px;
+  }
+  .activity-description {
+    width: 288px;
+    height: 40px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #ffffff;
+
+    opacity: 0.8;
+  }
+  .Frame80 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 18px;
+
+    position: absolute;
+    width: 203px;
+    height: 77px;
+    left: 20px;
+    top: 198px;
+  }
+  .activity-count {
+    width: 203px;
+    height: 21px;
+    margin-top: 10px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #ffffff;
+  }
+  .see-all-activity {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 16px;
+    gap: 10px;
+    position: relative;
+    left: -26px;
+    width: 146px;
+    height: 38px;
+
+    background: #ff5151;
+    border-radius: 4px;
+  }
+  .primary-button {
+    width: 107px;
+    height: 18px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #ffffff;
+  }
+  .Frame82 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 10px 10px 20px;
+    gap: 10px;
+
+    position: absolute;
+    width: 350px;
+    height: 56px;
+    left: 0px;
+    top: 0px;
+
+    background: #1b204a;
+    border-radius: 10px 10px 0px 0px;
+  }
+  .Frame82 h4 {
+    width: 320px;
+    height: 24px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #ffffff;
+  }
+  .Upcoming-Schedule {
+    position: absolute;
+    width: 350px;
+    height: 385px;
+    left: 20px;
+    top: 1697px;
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+  }
+  .Frame75 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 26px;
+
+    position: absolute;
+    width: 308px;
+    height: 27px;
+    left: 22px;
+    top: 17px;
+  }
+  .Upcoming-title {
+    margin: 0 auto;
+    width: 171px;
+    height: 24px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    font-feature-settings: "salt" on, "liga" off;
+  }
+  .Frame65 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 6px;
+    gap: 6px;
+
+    margin: 0 auto;
+    width: 125px;
+    height: 27px;
+
+    background: #ffffff;
+    border: 1px solid #efefef;
+    border-radius: 4px;
+  }
+  .Announcement-Frame10 {
+    margin: 0 auto;
+    width: 18px;
+    height: 18px;
+  }
+  .AnnouncementFrame10toggle {
+    position: relative;
+    left: -20px;
+    top: -2px;
+  }
+  .Frame68 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 8px 0px 6px;
+    gap: 5px;
+
+    position: absolute;
+    width: 310px;
+    height: 64px;
+    left: 20px;
+    top: 81px;
+
+    background: #fafafa;
+    border: 0.5px solid #e0e0e0;
+    border-radius: 6px;
+  }
+  .Frame66 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px 10px 0px 14px;
+    gap: 4px;
+
+    width: 790px;
+    height: 21px;
+  }
+  .Upcoming-Heading {
+    width: 277px;
+    height: 21px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #303030;
+  }
+  .Upcoming-paragraph {
+    position: relative;
+    left: -281px;
+    top: 40px;
+  }
+  .Frame69 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 8px 0px 6px;
+    gap: 5px;
+
+    position: absolute;
+    width: 310px;
+    height: 64px;
+    left: 20px;
+    top: 182px;
+
+    background: #fafafa;
+    border: 0.5px solid #e0e0e0;
+    border-radius: 6px;
+  }
+  .Frame70 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 8px 0px 6px;
+    gap: 5px;
+
+    position: absolute;
+    width: 310px;
+    height: 85px;
+    left: 20px;
+    top: 254px;
+
+    background: #fafafa;
+    border: 0.5px solid #e0e0e0;
+    border-radius: 6px;
+  }
+  .Frame71 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 8px 0px 6px;
+    gap: 5px;
+
+    position: absolute;
+    width: 310px;
+    height: 85px;
+    left: 20px;
+    top: 348px;
+
+    background: #fafafa;
+    border: 0.5px solid #e0e0e0;
+    border-radius: 6px;
+  }
+  .Priority {
+    position: absolute;
+    width: 41px;
+    height: 28px;
+    left: 20px;
+    top: 53px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+
+    display: flex;
+    align-items: center;
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #686868;
+  }
+  .Others {
+    position: absolute;
+    width: 34px;
+    height: 28px;
+    left: 20px;
+    top: 154px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+
+    display: flex;
+    align-items: center;
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #686868;
+  }
+  .Frame73 {
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    position: absolute;
+    width: 350px;
+    height: 39px;
+    left: 0px;
+    top: 346px;
+
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 0px 0px 10px 10px;
+    z-index: 2;
+    position: sticky;
+    bottom: 0;
+  }
+  .Upcoming-button {
+    width: 330px;
+    height: 20px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+
+    text-align: center;
+    font-feature-settings: "salt" on, "liga" off;
+
+    color: #ff5151;
+  }
+}
