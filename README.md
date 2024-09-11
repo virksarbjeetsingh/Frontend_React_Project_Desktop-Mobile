@@ -8,3 +8,8 @@ Instruction How to Use:
 4. After all these steps you will able to see the webpage as a result.
 5. Note: this is a responsive webpage with Desktop and Mobile view using React.
 6. Thankyou.
+
+
+Additional Info: 
+I also host this project on netlify, you can see by the provided link below -
+https://frontendreactproject.netlify.app/
